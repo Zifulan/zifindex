@@ -848,7 +848,7 @@ if ($_POST && isset($_POST['contact_form'])) {
                             <i class="fas fa-envelope"></i>
                             Get In Touch
                         </a>
-                        <a href="#" class="btn btn-secondary" onclick="alert('PDF CV will be available for download')">
+                        <a href="assets/Fatahillah_CV.pdf" class="btn btn-secondary" target="_blank" download>
                             <i class="fas fa-download"></i>
                             Download CV
                         </a>
